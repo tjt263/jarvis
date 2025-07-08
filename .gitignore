@@ -1,0 +1,8 @@
+venv/
+.env
+set_jarvis_keys.sh
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
